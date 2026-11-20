@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SchoolAppCoreMVC/SchoolAppCoreMVC.csproj" />
+  <Project Path="SchoolReportApp/SchoolReportApp.csproj" Id="e40bd0d7-d4e3-418d-b2f2-0101cc1a3e64" />
+</Solution>
